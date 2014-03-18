@@ -8,3 +8,5 @@ Make table
 Make header bold
 
 Make small figure, red line
+
+Add five giraffes and a sandwich
